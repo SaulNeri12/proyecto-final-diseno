@@ -10,3 +10,8 @@ Un sistema de administracion de un bazar. Su objetivo es el de administrar produ
 
 [Repositorio de la interfaz de usuario](https://github.com/SaulNeri12/sistema-venta-bazar)
 
+## Integrantes:
+    * Saul Armando Neri Escarcega   - 00000247498
+    * Juventino López García        - 00000248547
+    * Francisco de Jesús López Ruiz - 00000247037
+    * Rubén Ramírez Robles          - 00000247617
