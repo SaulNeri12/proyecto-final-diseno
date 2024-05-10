@@ -1,0 +1,6 @@
+[submodule "sistema-venta-bazar"]
+	path = sistema-venta-bazar
+	url = https://github.com/SaulNeri12/sistema-venta-bazar
+[submodule "librerias-sistema-bazar"]
+	path = librerias-sistema-bazar
+	url = https://github.com/SaulNeri12/librerias-sistema-bazar
