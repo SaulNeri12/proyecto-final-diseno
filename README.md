@@ -2,7 +2,7 @@
 Proyecto final de la materia de Diseño de Software
 
 ## AVISO: Usar "--recursive" para clonar el repositorio
-git clone --recursive https://github.com/SaulNeri12/proyecto-final-diseno
+   git clone --recursive https://github.com/SaulNeri12/proyecto-final-diseno
 
 Un sistema de administracion de un bazar. Su objetivo es el de administrar productos, ventas, usuarios de un bazar.
 ## AVISO: VER ORDEN DE COMPILACION PARA LAS LIBRERIAS-SISTEMA-BAZAR EN EL REPOSITORIO
